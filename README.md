@@ -80,5 +80,3 @@ New employees can create an account using:
 - Monthly salary
 
 
-EMP0002
-EMP0003
